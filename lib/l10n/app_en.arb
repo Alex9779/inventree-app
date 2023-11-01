@@ -530,6 +530,9 @@
   "inProductionDetail": "This stock item is in production",
   "@inProductionDetail": {},
 
+  "insert": "Insert",
+  "@insert": {},
+
   "internalPart": "Internal Part",
   "@internalPart": {},
 
